@@ -1,0 +1,5 @@
+ad : buse
+soyad : cinar
+vize : 67
+final : 33
+ort : 50
