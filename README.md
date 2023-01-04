@@ -19,3 +19,8 @@ YOUTUBE
 
 https://youtu.be/onl26o_jZFs
 
+
+ÇALIŞTIRMAK İÇİN
+
+bash hello.sh
+
